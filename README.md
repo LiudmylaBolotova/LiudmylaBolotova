@@ -1,16 +1,35 @@
-## Hi there 👋
+# Liudmyla Bolotova
 
-<!--
-**LiudmylaBolotova/LiudmylaBolotova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer focused on building fast, practical and production-ready web applications.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [ConvertidorChi](https://convertidorchi.com)
+
+Spanish-language conversion and calculation platform designed for users in Latin America and the United States.
+
+**Production:** [convertidorchi.com](https://convertidorchi.com)
+
+---
+
+### [Carnicería El Gauchito](https://elgauchito.cl)
+
+Commercial website for a local business in Chile.
+
+**Production:** [elgauchito.cl](https://elgauchito.cl)
+
+---
+
+### [Inglés con Aliona](https://inglesconaliona.com)
+
+Website for an online English teacher focused on Spanish-speaking students.
+
+**Production:** [inglesconaliona.com](https://inglesconaliona.com)
+
+## Tech
+
+Next.js · React · TypeScript · JavaScript · Node.js · Tailwind CSS · Git
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/liudmyla-bolotova-441709224)
