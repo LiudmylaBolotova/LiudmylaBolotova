@@ -6,6 +6,18 @@ I work across architecture, frontend and backend development, responsive UX, SEO
 
 ## Projects
 
+### [LLUBRA](https://llubra.com)
+
+Commercial website for my independent web studio focused on business websites for Chile and Latin America.
+
+Built with Next.js, TypeScript and Tailwind CSS, with a strong focus on positioning, accessibility, SEO foundations, performance and lead generation.
+
+The project presents services, portfolio, work process and direct contact options, including WhatsApp and a protected contact form.
+
+**Production:** [llubra.com](https://llubra.com)
+
+---
+
 ### [Carnicería El Gauchito](https://elgauchito.cl)
 
 Commercial website for a local butcher shop in Punta Arenas, Chile.
@@ -20,11 +32,11 @@ The project includes product showcases, business history, meat origin informatio
 
 ### [ConvertidorChi](https://convertidorchi.com)
 
-Full-stack unit and currency conversion platform designed for users in Latin America and the United States.
+Production web application offering unit converters, practical calculators and currency conversion tools for Spanish-speaking users.
 
-Built with Next.js, TypeScript, Node.js and Express.
+Built with Next.js, React, JavaScript and Node.js, using server-side API routes and responsive interfaces.
 
-Includes REST APIs, dynamic routing, responsive UX, SEO optimization and production deployment.
+Features multiple conversion categories, interactive calculators, daily exchange-rate updates, API rate limiting, technical SEO, analytics and Google AdSense integration.
 
 **Production:** [convertidorchi.com](https://convertidorchi.com)
 
@@ -40,7 +52,7 @@ Built as a responsive production website with a focus on usability and clear pre
 
 ## Tech
 
-Next.js · React · TypeScript · JavaScript · Node.js · Express · Tailwind CSS · REST APIs · Git · Vercel
+Next.js · React · TypeScript · JavaScript · Node.js · Tailwind CSS · REST APIs · Git · Vercel
 
 ## Focus
 
